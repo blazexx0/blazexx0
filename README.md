@@ -5,6 +5,6 @@
   <br/>
   <p>
     <a href="https://www.instagram.com/stfu_adiiiiiiiiii?stkn=MzA4cWZ3ZGRtZ2R2">instagram</a> • 
-    <a href="adiks20301@gmail.com">email</a>
+    <a href="mailto:adiks20301@gmail.com">email</a>
   </p>
 </div>
